@@ -1,6 +1,8 @@
 # Udacity Front End Developer Course
 
-This is the repo for the completion of the course over at **Udacity**. The contents are:
+This is the repo for the completion of the course over at **Udacity**.
+
+Projects Include:
 
 1. MockUp Article
 2. Animal Trading Cards
